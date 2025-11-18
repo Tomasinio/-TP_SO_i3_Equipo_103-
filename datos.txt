@@ -2,3 +2,8 @@ Nombre: Tomas Valentin
 Apellido: Baez
 IP: 192.168.1.43
 Hora: 20:14
+
+Nombre: Bruno Lautaro
+Apellido: Bulacio
+IP: 192.168.1.39
+Hora: 20:36
