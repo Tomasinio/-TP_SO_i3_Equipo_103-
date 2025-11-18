@@ -1,0 +1,4 @@
+
+DeviceID Name                        Caption                               MaxClockSpeed SocketDesignation Manufacturer
+-------- ----                        -------                               ------------- ----------------- ------------
+CPU0     Intel(R) Core(TM) i5-14600K Intel64 Family 6 Model 183 Stepping 1 3500          U3E1              GenuineIntel
