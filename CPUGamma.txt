@@ -3,3 +3,4 @@ DeviceID Name                                Caption                            
                                                                                                                    urer
 -------- ----                                -------                               ------------- ----------------- ----
 CPU0     Intel(R) Celeron(R) N5100 @ 1.10GHz Intel64 Family 6 Model 156 Stepping 0 1114          U3E1              G...
+
