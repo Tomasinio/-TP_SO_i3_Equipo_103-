@@ -27,3 +27,31 @@ Adaptador de LAN inalámbrica Wi-Fi:
    Puerta de enlace predeterminada . . . . . : fe80::2e96:82ff:fee9:f028%6
                                        192.168.1.1
 Hora: 22:40
+
+Apellido: Bulacio
+Nombre: Bruno
+Ipconfig:
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2802:8010:d084:9800:8658:9f89:cf0:f596
+   Temporary IPv6 Address. . . . . . : 2802:8010:d084:9800:5e9:6bbe:4c62:5906
+   Link-local IPv6 Address . . . . . : fe80::715c:5407:6769:6a7f%16
+   IPv4 Address. . . . . . . . . . . : 192.168.1.39
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::a264:8fff:fe13:2ebe%16
+                                       192.168.1.1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::b0d7:3c03:7dc0:ce53%15
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Hora: 22:50
