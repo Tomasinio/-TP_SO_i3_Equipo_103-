@@ -11,3 +11,10 @@ git checkout main
 git pull origin main
 git merge Baez
 git push origin main
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git checkout antomarioni
+ipconfig
+git add .
+git commit -m "Agregado info ipconfig"
+git push
