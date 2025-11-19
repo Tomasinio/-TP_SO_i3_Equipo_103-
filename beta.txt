@@ -12,3 +12,18 @@ Adaptador de Ethernet Ethernet:
    Puerta de enlace predeterminada . . . . . : fe80::2e96:82ff:fee9:f028%15
                                        192.168.1.1
 Hora: 22:33
+
+Apellido: Baez
+Nombre: Tomas
+IPConfig:
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : Home
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:b0f2:d000:ec63:8b80:404f:4f79
+   Dirección IPv6 temporal. . . . . . : 2802:8010:b0f2:d000:bce6:79b2:c69c:a81c
+   Vínculo: dirección IPv6 local. . . : fe80::bd9b:d56b:1046:aeba%6
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.43
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2e96:82ff:fee9:f028%6
+                                       192.168.1.1
+Hora: 22:40
