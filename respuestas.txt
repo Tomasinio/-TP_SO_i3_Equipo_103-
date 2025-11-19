@@ -1,0 +1,13 @@
+a-¿Cómo queda el máster después de estos cambios?
+quedo con el archivo de datos.txt con toda la informacion de los integrantes y los archvios de cada integrante sobre su CPU
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+git pull origin Baez
+git add .
+git commit -m "BETA: agrega datos y CPUBeta.txt"
+git push origin Baez
+git checkout main
+git pull origin main
+git merge Baez
+git push origin main

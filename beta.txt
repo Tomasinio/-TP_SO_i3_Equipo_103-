@@ -1,0 +1,14 @@
+Apellido: Antomarioni
+Nombre: Tomas
+IPConfig: 
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : Home
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:b0f2:d000:a294:5272:9ab:190b
+   Dirección IPv6 temporal. . . . . . : 2802:8010:b0f2:d000:64bd:8f68:39ab:a5a8
+   Vínculo: dirección IPv6 local. . . : fe80::fee1:b5b5:e471:b917%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.66
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2e96:82ff:fee9:f028%15
+                                       192.168.1.1
+Hora: 22:33
